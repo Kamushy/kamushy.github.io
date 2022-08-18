@@ -3,6 +3,30 @@
     {
       "width": 1024,
       "height": 1024,
+      "path": "./photos/AI-Generated-Art/boat.png",
+      "compressed_path": "./photos/AI-Generated-Art/boat.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/boat.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/city.png",
+      "compressed_path": "./photos/AI-Generated-Art/city.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/city.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/comic-book.png",
+      "compressed_path": "./photos/AI-Generated-Art/comic-book.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/comic-book.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
       "path": "./photos/AI-Generated-Art/frog by Fran\u00e7ois Schuiten, by Dan Hillier, by Paul Pope, by Artgerm.png",
       "compressed_path": "./photos/AI-Generated-Art/frog by Fran\u00e7ois Schuiten, by Dan Hillier, by Paul Pope, by Artgerm.min.png",
       "compressed": false,
@@ -113,6 +137,14 @@
       "placeholder_path": "./photos/AI-Generated-Art/madmanting.placeholder.png"
     },
     {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/monster women .png",
+      "compressed_path": "./photos/AI-Generated-Art/monster women .min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/monster women .placeholder.png"
+    },
+    {
       "width": 1664,
       "height": 1664,
       "path": "./photos/AI-Generated-Art/Mushroom in forest 2.png",
@@ -169,6 +201,22 @@
       "placeholder_path": "./photos/AI-Generated-Art/Ponyo.placeholder.png"
     },
     {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/red cornfield 4.png",
+      "compressed_path": "./photos/AI-Generated-Art/red cornfield 4.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/red cornfield 4.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/red cornfield.png",
+      "compressed_path": "./photos/AI-Generated-Art/red cornfield.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/red cornfield.placeholder.png"
+    },
+    {
       "width": 234,
       "height": 243,
       "path": "./photos/AI-Generated-Art/red mushroom on green background.jpg",
@@ -195,6 +243,22 @@
     {
       "width": 1024,
       "height": 1024,
+      "path": "./photos/AI-Generated-Art/sunflower monster 2.png",
+      "compressed_path": "./photos/AI-Generated-Art/sunflower monster 2.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/sunflower monster 2.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/sunflower monster.png",
+      "compressed_path": "./photos/AI-Generated-Art/sunflower monster.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/sunflower monster.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
       "path": "./photos/AI-Generated-Art/swamp monster.png",
       "compressed_path": "./photos/AI-Generated-Art/swamp monster.min.png",
       "compressed": false,
@@ -215,6 +279,70 @@
       "compressed_path": "./photos/AI-Generated-Art/This is gonna be the best day of my life.min.png",
       "compressed": false,
       "placeholder_path": "./photos/AI-Generated-Art/This is gonna be the best day of my life.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/town smake.png",
+      "compressed_path": "./photos/AI-Generated-Art/town smake.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/town smake.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/tree 2.png",
+      "compressed_path": "./photos/AI-Generated-Art/tree 2.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/tree 2.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/tree 4.png",
+      "compressed_path": "./photos/AI-Generated-Art/tree 4.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/tree 4.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/tree 5.png",
+      "compressed_path": "./photos/AI-Generated-Art/tree 5.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/tree 5.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/tree.png",
+      "compressed_path": "./photos/AI-Generated-Art/tree.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/tree.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/van gogh house 2.png",
+      "compressed_path": "./photos/AI-Generated-Art/van gogh house 2.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/van gogh house 2.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/van gogh house.png",
+      "compressed_path": "./photos/AI-Generated-Art/van gogh house.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/van gogh house.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/van gogh sunflower.png",
+      "compressed_path": "./photos/AI-Generated-Art/van gogh sunflower.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/van gogh sunflower.placeholder.png"
     },
     {
       "width": 1024,
