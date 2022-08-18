@@ -1,6 +1,30 @@
 {
   "AI-Generated-Art": [
     {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/frog by Fran\u00e7ois Schuiten, by Dan Hillier, by Paul Pope, by Artgerm.png",
+      "compressed_path": "./photos/AI-Generated-Art/frog by Fran\u00e7ois Schuiten, by Dan Hillier, by Paul Pope, by Artgerm.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/frog by Fran\u00e7ois Schuiten, by Dan Hillier, by Paul Pope, by Artgerm.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/frog by Fran\u00e7ois Schuiten, by Dan Hillier, by Paul Pope, by Artgerm2.png",
+      "compressed_path": "./photos/AI-Generated-Art/frog by Fran\u00e7ois Schuiten, by Dan Hillier, by Paul Pope, by Artgerm2.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/frog by Fran\u00e7ois Schuiten, by Dan Hillier, by Paul Pope, by Artgerm2.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/giant octopus taking down studio ghilbi boat.png",
+      "compressed_path": "./photos/AI-Generated-Art/giant octopus taking down studio ghilbi boat.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/giant octopus taking down studio ghilbi boat.placeholder.png"
+    },
+    {
       "width": 243,
       "height": 241,
       "path": "./photos/AI-Generated-Art/green background Mushroom.jpg",
@@ -31,6 +55,22 @@
       "compressed_path": "./photos/AI-Generated-Art/Green mushroom 2.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/AI-Generated-Art/Green mushroom 2.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/in the style of ponyo.png",
+      "compressed_path": "./photos/AI-Generated-Art/in the style of ponyo.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/in the style of ponyo.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/japan in soviet styler art.png",
+      "compressed_path": "./photos/AI-Generated-Art/japan in soviet styler art.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/japan in soviet styler art.placeholder.png"
     },
     {
       "width": 1024,
@@ -65,6 +105,14 @@
       "placeholder_path": "./photos/AI-Generated-Art/Kamushy_sketch_of_agaric_mushroom_on_a_background_with_the_colo_06750bdc-6a0e-45d0-bce8-14da2895a045.placeholder.png"
     },
     {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/madmanting.png",
+      "compressed_path": "./photos/AI-Generated-Art/madmanting.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/madmanting.placeholder.png"
+    },
+    {
       "width": 1664,
       "height": 1664,
       "path": "./photos/AI-Generated-Art/Mushroom in forest 2.png",
@@ -89,6 +137,38 @@
       "placeholder_path": "./photos/AI-Generated-Art/Oil On Canvas mushy.placeholder.png"
     },
     {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/old japense town.png",
+      "compressed_path": "./photos/AI-Generated-Art/old japense town.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/old japense town.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/pixies parasol mushroom in the syle of oil on canvas.png",
+      "compressed_path": "./photos/AI-Generated-Art/pixies parasol mushroom in the syle of oil on canvas.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/pixies parasol mushroom in the syle of oil on canvas.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/ponyo type boatpng.png",
+      "compressed_path": "./photos/AI-Generated-Art/ponyo type boatpng.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/ponyo type boatpng.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/Ponyo.png",
+      "compressed_path": "./photos/AI-Generated-Art/Ponyo.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/Ponyo.placeholder.png"
+    },
+    {
       "width": 234,
       "height": 243,
       "path": "./photos/AI-Generated-Art/red mushroom on green background.jpg",
@@ -99,10 +179,42 @@
     {
       "width": 1024,
       "height": 1024,
+      "path": "./photos/AI-Generated-Art/simple green home.png",
+      "compressed_path": "./photos/AI-Generated-Art/simple green home.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/simple green home.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/spotify, multi, chrom, crazy, wicked, echo, rechon, maid.png",
+      "compressed_path": "./photos/AI-Generated-Art/spotify, multi, chrom, crazy, wicked, echo, rechon, maid.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/spotify, multi, chrom, crazy, wicked, echo, rechon, maid.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
       "path": "./photos/AI-Generated-Art/swamp monster.png",
       "compressed_path": "./photos/AI-Generated-Art/swamp monster.min.png",
       "compressed": false,
       "placeholder_path": "./photos/AI-Generated-Art/swamp monster.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/the guy gets guns out of his hands, he shoots from them, in hyperrealism.png",
+      "compressed_path": "./photos/AI-Generated-Art/the guy gets guns out of his hands, he shoots from them, in hyperrealism.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/the guy gets guns out of his hands, he shoots from them, in hyperrealism.placeholder.png"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "path": "./photos/AI-Generated-Art/This is gonna be the best day of my life.png",
+      "compressed_path": "./photos/AI-Generated-Art/This is gonna be the best day of my life.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/AI-Generated-Art/This is gonna be the best day of my life.placeholder.png"
     },
     {
       "width": 1024,
